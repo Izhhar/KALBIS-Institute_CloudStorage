@@ -1,4 +1,4 @@
-<?php require_once "include/getdata.php" ?>
+<?php require_once "../include/getdata.php" ?>
 
 <!DOCTYPE html>
 <html>
@@ -6,10 +6,10 @@
 <meta http-equiv="refresh" content="0;url=module/index.php">
 <title>Drive</title>
 <script language="javascript">
-    window.location.href = "module/index.php"
+    window.location.href = "../module/index.php"
 </script>
 </head>
 <body>
-Go to <a href="module/index.php">/module/index.php</a>
+Go to <a href="../module/index.php">/module/index.php</a>
 </body>
 </html>
